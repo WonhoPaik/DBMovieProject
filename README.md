@@ -11,7 +11,7 @@ Java와 MySQL을 활용한 영화 예매 프로젝트
 | OS | Windows 10 Home |
 | Language | Java |
 | Editor | Eclipse |
-| DBMS | MySQL |
+| DBMS | oracle |
 | Github | https://github.com/WonhoPaik/DBMovieProject.git |
 
 ## 개발기간
